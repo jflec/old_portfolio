@@ -141,7 +141,7 @@ section {
 }
 
 .plx {
-  position: fixed;
+  position: absolute;
   z-index: 2;
   top: 0;
 }
