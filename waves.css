@@ -1,0 +1,145 @@
+.custom-shape-divider-top-1638601765 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1638601765 svg {
+  position: relative;
+  display: block;
+  width: calc(114% + 1.3px);
+  height: 163px;
+}
+
+.custom-shape-divider-top-1638601765 .shape-fill {
+  fill: #ffffff;
+}
+.custom-shape-divider-top-1638574936 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1638574936 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 83px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1638574936 .shape-fill {
+  fill: #ffffff;
+}
+
+.custom-shape-divider-top-1638598689 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1638598689 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 101px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1638598689 .shape-fill {
+  fill: #141414;
+}
+
+.custom-shape-divider-bottom-1638745851 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1638745851 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 47px;
+}
+
+.custom-shape-divider-bottom-1638745851 .shape-fill {
+  fill: #141414;
+}
+
+.custom-shape-divider-bottom-1638749294 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1638749294 svg {
+  position: relative;
+  display: block;
+  width: calc(102% + 1.3px);
+  height: 87px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1638749294 .shape-fill {
+  fill: #141414;
+}
+.custom-shape-divider-top-1638749354 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1638749354 svg {
+  position: relative;
+  display: block;
+  width: calc(102% + 1.3px);
+  height: 87px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1638749354 .shape-fill {
+  fill: #141414;
+}
+
+.custom-shape-divider-bottom-1638749422 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1638749422 svg {
+  position: relative;
+  display: block;
+  width: calc(102% + 1.3px);
+  height: 87px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1638749422 .shape-fill {
+  fill: #141414;
+}

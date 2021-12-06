@@ -1,0 +1,194 @@
+#frame {
+  position: relative;
+  width: 304px;
+  height: 610px;
+  box-shadow: inset 0px 0px 0px 10px rgb(196, 196, 196);
+  border-radius: 28px;
+}
+
+#power-button {
+  position: absolute;
+  background-color: rgb(187, 187, 187);
+  width: 2px;
+  height: 76px;
+  right: -2px;
+  top: 159px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+#volume-button-one {
+  position: absolute;
+  background-color: rgb(187, 187, 187);
+  width: 2px;
+  height: 25px;
+  left: -2px;
+  top: 99px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#volume-button-two {
+  position: absolute;
+  background-color: rgb(187, 187, 187);
+  width: 2px;
+  height: 47px;
+  left: -2px;
+  top: 145px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#volume-button-three {
+  position: absolute;
+  background-color: rgb(187, 187, 187);
+  width: 2px;
+  height: 47px;
+  left: -2px;
+  top: 204px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#bezel {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: calc(100% - 28px);
+  height: calc(100% - 28px);
+  border-radius: 22px;
+  border: 10px solid black;
+  box-shadow: 0px 0px 2px 2px black;
+}
+
+#camera-bezel {
+  position: absolute;
+  z-index: 2;
+  top: 0px;
+  left: 50%;
+  width: 50%;
+  height: 23px;
+  margin-left: -25%;
+  background-color: rgb(1, 1, 1);
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  display: flex;
+  align-items: center;
+}
+
+#camera {
+  position: absolute;
+  right: 30px;
+  width: 10px;
+  height: 10px;
+  background-color: rgb(12, 12, 12);
+  border: 1px solid rgb(8, 8, 8);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#camera-tint-blue {
+  width: 6px;
+  height: 6px;
+  background-color: rgb(2, 2, 2);
+  box-shadow: 0px 0px 1px 1px black;
+  border-radius: 50px;
+}
+
+#speaker {
+  position: absolute;
+  left: 50%;
+  margin-left: -20px;
+  width: 40px;
+  height: 5px;
+  background-color: rgb(12, 12, 12);
+  border-radius: 50px;
+  border: 1px solid rgb(20, 20, 20);
+}
+
+#screen-container {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: calc(100% - 16px);
+  height: calc(100% - 16px);
+  border-radius: 16px;
+  background-size: 100% 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+#ui-menu {
+  position: absolute;
+  width: 44%;
+  height: 60px;
+  background: rgba(255, 255, 255, 0.2);
+  bottom: 10px;
+  border-radius: 16px;
+  backdrop-filter: brightness(1) blur(2px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+#ui-menu a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 34px;
+  width: 42px;
+  height: 42px;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  transition: 0.2s;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#ui-menu a:hover {
+  transition: 0.2s;
+  background-color: rgb(236, 236, 236);
+}
+
+#app-container {
+  top: 40px;
+  position: absolute;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  height: 40%;
+  width: 100%;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  gap: 6px;
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+}
+
+#app-container i {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 34px;
+  width: 42px;
+  height: 42px;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  transition: 0.2s;
+}
+
+#app-container i:hover {
+  transition: 0.2s;
+  transform: scale(1.1);
+  background-color: rgb(236, 236, 236);
+}

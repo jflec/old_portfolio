@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="1920" height="800" preserveAspectRatio="none" viewBox="0 0 1920 800" xmlns="http://www.w3.org/2000/svg">
+  <g mask="url(#SvgjsMask11077)" fill="none">
+    <circle r="77.108" cx="1510.304" cy="508.659" fill="rgba(0, 240, 211, 1)" style=""/>
+    <path d="M535.68 268.13 L320.12 350.01L284.9921839380686 166.16218393806858z" fill="rgba(0, 240, 211, 1)"/>
+    <rect width="237.60000000000002" height="237.60000000000002" clip-path="url(#SvgjsClipPath11080)" x="1018.93" y="83.38" fill="url(#SvgjsPattern11081)" transform="rotate(145.07, 1137.73, 202.18)"/>
+    <rect width="424.2" height="424.2" clip-path="url(#SvgjsClipPath11082)" x="-25.62" y="529.95" fill="url(#SvgjsPattern11083)" transform="matrix(-0.159364, 0.98722, -0.98722, -0.159364, 1313.570435, 580.46637)"/>
+    <circle r="66.66666666666667" cx="261.15" cy="521.38" stroke="rgba(0, 240, 211, 1)" stroke-width="1.97" stroke-dasharray="2, 2" transform="matrix(1, 0, 0, 1, 622.220205, 178.930344)"/>
+  </g>
+  <defs>
+    <mask id="SvgjsMask11077">
+      <rect width="1920" height="800" fill="#ffffff"/>
+    </mask>
+    <pattern x="0" y="0" width="10.8" height="10.8" patternUnits="userSpaceOnUse" id="SvgjsPattern11081">
+      <path d="M0 10.8L5.4 0L10.8 10.8" stroke="rgba(0, 240, 211, 1)" fill="none"/>
+    </pattern>
+    <clipPath id="SvgjsClipPath11080">
+      <circle r="59.400000000000006" cx="1137.73" cy="202.18"/>
+    </clipPath>
+    <pattern x="0" y="0" width="424.2" height="6.06" patternUnits="userSpaceOnUse" id="SvgjsPattern11083" patternTransform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect width="424.2" height="3.03" x="0" y="0" fill="rgba(0, 240, 211, 1)"/>
+      <rect width="424.2" height="3.03" x="0" y="3.03" fill="rgba(0, 0, 0, 0)"/>
+    </pattern>
+    <clipPath id="SvgjsClipPath11082">
+      <circle r="106.05" cx="186.48" cy="742.05"/>
+    </clipPath>
+  </defs>
+</svg>
