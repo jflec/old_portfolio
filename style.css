@@ -438,6 +438,14 @@ p colorText {
 }
 
 @media screen and (max-width: 767px) {
+  .plx {
+    display: none;
+  }
+
+  .splash {
+    background-image: url('./3.svg');
+  }
+
   #navbar-container {
     display: flex;
     justify-content: center;
