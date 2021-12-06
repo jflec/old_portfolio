@@ -9,9 +9,13 @@ darkest #6335F0
 grey #dbdbdb
 dark #141414
 white #ffffff */
+
+html {
+  overflow-x: hidden;
+}
+
 body {
   background-color: #141414;
-  overflow-x: hidden;
 }
 
 * {
@@ -137,11 +141,9 @@ section {
 }
 
 .plx {
-  position: absolute;
+  position: fixed;
   z-index: 2;
   top: 0;
-  left: 50%;
-  margin-left: -960px;
 }
 
 .splash-text h3 {
