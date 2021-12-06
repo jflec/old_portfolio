@@ -10,12 +10,13 @@ grey #dbdbdb
 dark #141414
 white #ffffff */
 
-html {
-  overflow-x: hidden;
-}
-
 body {
   background-color: #141414;
+}
+
+#mobile-browser {
+  position: relative;
+  overflow-x: hidden;
 }
 
 * {
@@ -400,17 +401,6 @@ p colorText {
   align-items: center;
   justify-content: center;
   gap: 20px;
-}
-
-#copy-right {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 60px;
-  width: 100%;
-  color: white;
-  border-top: 2px solid #1f1f1f;
-  font-family: 'Lato';
 }
 
 #footer-text h1 {
