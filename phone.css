@@ -162,6 +162,7 @@
   grid-template-columns: auto auto auto auto;
   height: 40%;
   width: 100%;
+  gap: 10px;
 }
 
 .app {
